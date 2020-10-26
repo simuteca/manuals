@@ -11,8 +11,8 @@ Estos documentos están también alojados en simuteca.com.
 ## Contacto
 
 - aeroteca@aeroteca.com
-- [Web Aeroteca](www.aeroteca.com)
-- [Web Simuteca](www.simuteca.com)
+- [Web Aeroteca](https://www.aeroteca.com)
+- [Web Simuteca](http://www.simuteca.com)
 
 > ⚠️ **Warning**: Los documentos contienen la dirección antigua, la nueva dirección es: Travessera de gràcia, 209 local, 08012 Barcelona Spain
 
